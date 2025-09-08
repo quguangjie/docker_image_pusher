@@ -1,9 +1,12 @@
+# 2025-09-08
+# GitLab
+gitlab/gitlab-ce
 
 # 2025-03-10
 # 硅基模型 数字人
-guiji2025/fun-asr:1.0.2
-guiji2025/fish-speech-ziming:1.0.39
-guiji2025/heygem.ai:0.0.7_sdk_slim
+# guiji2025/fun-asr:1.0.2
+# guiji2025/fish-speech-ziming:1.0.39
+# guiji2025/heygem.ai:0.0.7_sdk_slim
 
 
 #2025-02-15
