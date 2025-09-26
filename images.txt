@@ -1,3 +1,8 @@
+# 2025-09-26
+# Jinbooks 的 服务器基础包
+eclipse-temurin:17.0.12_7-jdk-alpine
+
+
 # 2025-09-08
 # GitLab
 gitlab/gitlab-ce
