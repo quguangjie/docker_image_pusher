@@ -1,3 +1,10 @@
+#2026-01-20
+# MemOS 依赖的基础包
+neo4j:5.26.4
+qdrant/qdrant:v1.15.3
+
+
+
 # 2025-09-26
 # Jinbooks 的 服务器基础包
 eclipse-temurin:17.0.12_7-jdk-alpine
