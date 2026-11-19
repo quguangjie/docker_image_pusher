@@ -6,23 +6,23 @@ arcreel/arcreel:latest
 
 #2026-02-28
 # openclaw
-openclaw/base:v2.7
+#openclaw/base:v2.7
 
 #2026-01-20
 # MemOS 依赖的基础包
-neo4j:5.26.4
-qdrant/qdrant:v1.15.3
+#neo4j:5.26.4
+#qdrant/qdrant:v1.15.3
 
 
 
 # 2025-09-26
 # Jinbooks 的 服务器基础包
-eclipse-temurin:17.0.12_7-jdk-alpine
+#eclipse-temurin:17.0.12_7-jdk-alpine
 
 
 # 2025-09-08
 # GitLab
-gitlab/gitlab-ce
+# gitlab/gitlab-ce
 
 # 2025-03-10
 # 硅基模型 数字人
