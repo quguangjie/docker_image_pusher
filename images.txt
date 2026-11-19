@@ -1,4 +1,8 @@
 
+#2026-11-19
+# arcreel 短剧生成平台
+arcreel/arcreel:latest
+
 
 #2026-02-28
 # openclaw
